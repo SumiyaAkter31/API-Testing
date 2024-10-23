@@ -11,9 +11,22 @@ POSTMAN Request
 
 
 There are mainly several types of postman request. But in here we are going to talk about some five kinds of request.
+
+
+
+
 •	Post- New input request to the server.
+
+
+
 •	Put - Value Update request to the server.
+
+
+
 •	patch- One section modify request to server.
+
+
+
 •	Get- value generate request from server.
 
 
